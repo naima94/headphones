@@ -121,7 +121,7 @@
 .section-b {
     position: relative;
     background: url('https://i.ibb.co/1RS1dqC/section-b.jpg') no-repeat bottom center/cover;
-    height: 600px;
+    height: 100vh;
 }
 
 .section-b-inner {
@@ -197,7 +197,7 @@
 
   .section-e .container {
     max-width: 700px;
-   margin-bottom: 30px;
+    margin-bottom: 30px;
     border-radius: 10px;
     background-color: #f2f2f2;
     padding: 20px;
